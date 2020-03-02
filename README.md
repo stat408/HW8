@@ -1,7 +1,7 @@
 # HW8
 
 
-Please use D2L to turn in both the Word or PDF output and your R Markdown file in.
+Please use D2L to turn in both the HTML output (NOTE leaflet requires HTML) and your R Markdown file in.
 
 ### Q1. (5 points)
 Use the Baltimore Towing Dataset for this question.
